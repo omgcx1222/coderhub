@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u-empty": "/uni_modules/uview-ui/components/u-empty/u-empty",
+    "menu-list-item": "/components/goods/MenuListItem"
+  }
+}

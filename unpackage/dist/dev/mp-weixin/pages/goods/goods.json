@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "uni-nav-bar": "/uni_modules/uni-nav-bar/components/uni-nav-bar/uni-nav-bar",
+    "u-swiper": "/uni_modules/uview-ui/components/u-swiper/u-swiper",
+    "u-popup": "/uni_modules/uview-ui/components/u-popup/u-popup",
+    "menu-list": "/components/goods/MenuList",
+    "goods-nav": "/components/goods/GoodsNav",
+    "menu-list-item": "/components/goods/MenuListItem"
+  }
+}

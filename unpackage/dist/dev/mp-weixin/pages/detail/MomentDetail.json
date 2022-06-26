@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "uni-nav-bar": "/uni_modules/uni-nav-bar/components/uni-nav-bar/uni-nav-bar",
+    "moment": "/components/detail/Moment",
+    "comment-list": "/components/detail/CommentList",
+    "key-input": "/components/detail/KeyInput",
+    "popup": "/components/detail/Popup"
+  }
+}

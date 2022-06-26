@@ -1,0 +1,53 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/my/my",
+    "pages/login/login",
+    "pages/login/agreement",
+    "pages/detail/MomentDetail",
+    "pages/pubMoment/pubMoment",
+    "pages/goods/goods",
+    "pages/chat/chat"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationStyle": "custom",
+    "navigationBarTextStyle": "black",
+    "navigationBarBackgroundColor": "#fff",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "text": "首页",
+        "iconPath": "static/shouye.png",
+        "selectedIconPath": "static/shouye-select.png"
+      },
+      {
+        "pagePath": "pages/chat/chat",
+        "text": "聊天",
+        "iconPath": "static/chat.png",
+        "selectedIconPath": "static/chat-select.png"
+      },
+      {
+        "pagePath": "pages/goods/goods",
+        "text": "周边",
+        "iconPath": "static/goods.png",
+        "selectedIconPath": "static/goods-select.png"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "text": "我的",
+        "iconPath": "static/wode.png",
+        "selectedIconPath": "static/wode-select.png"
+      }
+    ],
+    "color": "#8a8a8a",
+    "selectedColor": "#000000",
+    "backgroundColor": "#fff",
+    "borderStyle": "white"
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

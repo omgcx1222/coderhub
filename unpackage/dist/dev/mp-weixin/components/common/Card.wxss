@@ -1,0 +1,37 @@
+
+.card.data-v-3879f0e9 {
+	/* width: 100%; */
+}
+.text.data-v-3879f0e9 {
+	margin-bottom: 10px;
+}
+.picture.data-v-3879f0e9, .picture-1.data-v-3879f0e9, .picture-4.data-v-3879f0e9 {
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+}
+.picture .picture-item.data-v-3879f0e9, .picture-4 .picture-item.data-v-3879f0e9 {
+	width: 32.66%;
+	height: 200rpx;
+	margin-top: 1%;
+	margin-right: 1%;
+}
+.picture .picture-item.data-v-3879f0e9:nth-child(3n) {
+	margin-right: 0%;
+}
+.picture-1 .picture-item.data-v-3879f0e9 {
+	max-width: 100%;
+	max-height: 300px;
+}
+.picture-4 .picture-item.data-v-3879f0e9:nth-child(2n) {
+	margin-right: 10%;
+}
+.icon.data-v-3879f0e9 {
+	width: 32.66%;
+	height: 200rpx;
+	background-color: #e7e7e7;
+	text-align: center;
+	line-height: 100px;
+	margin-top: 1%;
+}
+

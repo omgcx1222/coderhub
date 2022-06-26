@@ -1,0 +1,1 @@
+<view class="select-label data-v-8a6a5556"><text data-event-opts="{{[['tap',[['selectLabel',['$event']]]]]}}" class="label data-v-8a6a5556" bindtap="__e">{{title}}</text></view>

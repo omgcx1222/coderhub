@@ -1,0 +1,1 @@
+<view class="header data-v-4b05031f"><image class="avatar data-v-4b05031f" src="{{imgSrc}}" mode lazy-load="{{true}}"></image><text class="nickname data-v-4b05031f">{{nickname}}</text><view class="guanzhu data-v-4b05031f"><slot></slot></view></view>

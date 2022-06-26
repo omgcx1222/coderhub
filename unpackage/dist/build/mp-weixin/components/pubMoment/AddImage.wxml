@@ -1,0 +1,1 @@
+<view class="add-image data-v-37417ea1"><card vue-id="6cb8ff9f-1" imgList="{{imagePath}}" isPreview="{{true}}" data-event-opts="{{[['^addImage',[['addImage']]]]}}" bind:addImage="__e" class="data-v-37417ea1" bind:__l="__l"></card></view>

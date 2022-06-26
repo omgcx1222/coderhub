@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uni-popup": "/uni_modules/uni-popup/components/uni-popup/uni-popup",
+    "key-input": "/components/detail/KeyInput",
+    "reply": "/components/common/Reply"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uni-icons": "/uni_modules/uni-icons/components/uni-icons/uni-icons",
+    "uni-tag": "/uni_modules/uni-tag/components/uni-tag/uni-tag",
+    "avatar-header": "/components/common/AvatarHeader",
+    "card": "/components/common/Card"
+  }
+}

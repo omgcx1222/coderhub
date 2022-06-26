@@ -1,0 +1,13 @@
+
+.header.data-v-363203ba {
+	line-height: 40px;
+	padding: 0 10px;
+	font-size: 15px;
+	font-weight: 600;
+	border-bottom: 2px solid #f5f5f5;
+}
+.comment-list.data-v-363203ba {
+	margin: 10px 10px 0 10px;
+	border-bottom: 2px solid #f5f5f5;
+}
+

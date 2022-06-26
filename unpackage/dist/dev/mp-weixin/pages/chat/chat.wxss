@@ -1,0 +1,17 @@
+
+.nav-bar.data-v-bf16e7f4 {
+	font-size: 20px;
+	font-weight: 600;
+	margin: 0 auto;
+	line-height: 44px;
+}
+.chat.data-v-bf16e7f4 {
+	background-color: #f5f5f7;
+}
+.chat-record.data-v-bf16e7f4 {
+	height: calc(100vh - 44px - 50px);
+}
+.scroll-view.data-v-bf16e7f4 {
+	height: calc(100% - 60px);
+}
+

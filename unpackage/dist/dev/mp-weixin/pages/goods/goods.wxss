@@ -1,0 +1,33 @@
+
+.goods.data-v-5566b618 {
+	height: 100vh;
+	overflow: hidden;
+
+
+
+	position: relative;
+}
+.nav-bar.data-v-5566b618 {
+	font-size: 20px;
+	font-weight: 600;
+	margin: 0 auto;
+	line-height: 44px;
+}
+.menu.data-v-5566b618 {
+	height: 200px;
+}
+.goods-nav-box.data-v-5566b618 {
+	position: absolute;
+	bottom: 0px;
+
+	z-index: 10076;
+}
+.list.data-v-5566b618:after {
+	content: '';
+	display: block;
+	width: 100%;
+	height: 50px;
+}
+
+
+

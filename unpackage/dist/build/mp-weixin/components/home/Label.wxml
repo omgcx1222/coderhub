@@ -1,0 +1,1 @@
+<view class="label data-v-22f3fda0"><block wx:for="{{labels}}" wx:for-item="item" wx:for-index="index" wx:key="id"><view data-event-opts="{{[['tap',[['clickLabel',[index]]]]]}}" class="{{['label-item','data-v-22f3fda0',(current==index)?'label-active':'']}}" bindtap="__e">{{''+item.name+''}}</view></block></view>

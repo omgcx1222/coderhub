@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tabs": "/components/home/Tabs",
+    "content-item": "/components/home/ContentItem"
+  }
+}

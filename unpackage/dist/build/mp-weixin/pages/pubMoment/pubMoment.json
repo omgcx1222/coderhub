@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "uni-nav-bar": "/uni_modules/uni-nav-bar/components/uni-nav-bar/uni-nav-bar",
+    "add-image": "/components/pubMoment/AddImage",
+    "select-label": "/components/pubMoment/SelectLabel"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "uni-nav-bar": "/uni_modules/uni-nav-bar/components/uni-nav-bar/uni-nav-bar",
+    "uni-fab": "/uni_modules/uni-fab/components/uni-fab/uni-fab",
+    "label": "/components/home/Label",
+    "swiper-content": "/components/home/SwiperContent"
+  }
+}

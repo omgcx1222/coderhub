@@ -1,0 +1,16 @@
+
+.title.data-v-4e10ad7b {
+	/* height: 50px; */
+	line-height: 80px;
+	border-bottom: 1px solid #e2e2e2;
+	text-align: center;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+.item.data-v-4e10ad7b {
+	font-size: 1.1em;
+	margin-top: 20px;
+	padding: 0 10px;
+	font-weight: bold;
+}
+

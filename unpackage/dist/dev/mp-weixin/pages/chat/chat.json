@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "uni-nav-bar": "/uni_modules/uni-nav-bar/components/uni-nav-bar/uni-nav-bar",
+    "chat-list": "/components/chat/ChatList",
+    "key-input": "/components/detail/KeyInput"
+  }
+}

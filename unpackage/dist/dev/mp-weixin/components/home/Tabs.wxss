@@ -1,0 +1,27 @@
+
+.tabs.data-v-6d16c523 {
+	display: flex;
+	padding-left: 10px;
+	position: relative;
+	height: 40px;
+}
+.tabs-item.data-v-6d16c523 {
+	padding: 10px 0;
+	margin-right: 30px;
+	color: #8a8a8a;
+}
+.tabs-active.data-v-6d16c523 {
+	color: #000000;
+	font-weight: bold;
+}
+.bottom-line.data-v-6d16c523 {
+	position: absolute;
+	left: 0;
+	bottom: 3px;
+	width: 30px;
+	height: 3px;
+	border-radius: 20px;
+	background-color: #000000;
+	transition: left .1s;
+}
+

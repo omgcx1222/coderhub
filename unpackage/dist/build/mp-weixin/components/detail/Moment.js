@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["components/detail/Moment"],{"0d2e":function(n,e,t){},"3bfc":function(n,e,t){"use strict";Object.defineProperty(e,"__esModule",{value:!0}),e.default=void 0;var o=function(){t.e("components/common/AvatarHeader").then(function(){return resolve(t("2edf"))}.bind(null,t)).catch(t.oe)},u=function(){t.e("components/common/Card").then(function(){return resolve(t("016c"))}.bind(null,t)).catch(t.oe)},c={name:"Moment",props:["moment"],components:{AvatarHeader:o,Card:u},methods:{toolbar:function(n){this.$emit("toolbar",n)}}};e.default=c},"576d":function(n,e,t){"use strict";t.d(e,"b",(function(){return u})),t.d(e,"c",(function(){return c})),t.d(e,"a",(function(){return o}));var o={uniIcons:function(){return Promise.all([t.e("common/vendor"),t.e("uni_modules/uni-icons/components/uni-icons/uni-icons")]).then(t.bind(null,"7ae5"))},uniTag:function(){return t.e("uni_modules/uni-tag/components/uni-tag/uni-tag").then(t.bind(null,"9938"))}},u=function(){var n=this,e=n.$createElement,t=(n._self._c,Object.keys(n.moment)),o=t.length?n.$timeHandle(n.moment.updateTime):null;n.$mp.data=Object.assign({},{$root:{g0:t,m0:o}})},c=[]},"7e9c":function(n,e,t){"use strict";t.r(e);var o=t("3bfc"),u=t.n(o);for(var c in o)"default"!==c&&function(n){t.d(e,n,(function(){return o[n]}))}(c);e["default"]=u.a},b137:function(n,e,t){"use strict";var o=t("0d2e"),u=t.n(o);u.a},b2d9:function(n,e,t){"use strict";t.r(e);var o=t("576d"),u=t("7e9c");for(var c in u)"default"!==c&&function(n){t.d(e,n,(function(){return u[n]}))}(c);t("b137");var i,r=t("f0c5"),a=Object(r["a"])(u["default"],o["b"],o["c"],!1,null,"1fbb549c",null,!1,o["a"],i);e["default"]=a.exports}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'components/detail/Moment-create-component',
+    {
+        'components/detail/Moment-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('543d')['createComponent'](__webpack_require__("b2d9"))
+        })
+    },
+    [['components/detail/Moment-create-component']]
+]);

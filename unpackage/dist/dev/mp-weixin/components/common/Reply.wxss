@@ -1,0 +1,23 @@
+
+.content.data-v-63b4453e {
+	padding: 0 10px 10px 50px;
+}
+.text.data-v-63b4453e {
+	padding: 10px;
+}
+.content-reply.data-v-63b4453e {
+	background-color: #f5f5f5;
+	font-size: 12px;
+	padding: 5px 10px;
+	color: #5b5b5b;
+	border-radius: 3px;
+}
+.time.data-v-63b4453e {
+	font-size: 12px;
+	margin-top: 10px;
+	color: #5b5b5b;
+}
+.lick.data-v-63b4453e {
+	color: #fb7299;
+}
+

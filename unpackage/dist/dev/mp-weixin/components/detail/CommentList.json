@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "reply": "/components/common/Reply"
+  }
+}

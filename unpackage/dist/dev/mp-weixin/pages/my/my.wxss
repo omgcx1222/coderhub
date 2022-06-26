@@ -1,0 +1,9 @@
+
+.nav-bar.data-v-0be17cc6 {
+	font-size: 20px;
+	font-weight: 600;
+}
+.content.data-v-0be17cc6 {
+	height: calc(100vh - 44px - 50px);
+}
+

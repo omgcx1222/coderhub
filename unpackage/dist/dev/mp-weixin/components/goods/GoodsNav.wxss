@@ -1,0 +1,19 @@
+
+.goods-nav.data-v-50a4e8be {
+	width: 100vw;
+	height: 50px;
+	padding: 0 20rpx;
+	display: flex;
+	align-items: center;
+	border-bottom: 1px solid #ebebeb;
+	background-color: #fff;
+}
+.go.data-v-50a4e8be {
+	margin-right: 40rpx;
+	margin-left: auto;
+	background-color: #ffd144;
+	padding: 20rpx 40rpx;
+	border-radius: 50rpx;
+	color: #000;
+}
+
